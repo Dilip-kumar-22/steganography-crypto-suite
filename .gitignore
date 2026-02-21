@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+# Ignore the images so we don't upload large files
+*.png
+*.jpg
+!sample.png
